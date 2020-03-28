@@ -1,6 +1,8 @@
 # NOTE (monico 3/28/2020)
 This content was borrowed from the [node-gyp repo](https://github.com/nodejs/node-gyp)'s [macOS Catalina document](https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md).  I copied here to append my own notes. 
 
+I pre-pended my personal notes in this document with `monico mm/dd/yyyy` 
+
 Every time I update macOS I invariably have to run some of the steps in this document. Symtoms listed below.
 
 Symptoms:
